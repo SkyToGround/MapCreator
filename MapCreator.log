@@ -1,0 +1,7 @@
+2016-10-21 18:52:15,673 - INFO: GetVarsFromNKSFile(): Extracting variable names from file: /Users/jonasnilsson/Documents/Area 1 dose rate SE-FAT-1.NKS
+2016-10-21 18:52:15,674 - INFO: GetVarsFromNKSFile(): Found the following variables: ['REC', 'TIME_UTC', 'X_RT90', 'Y_RT90', 'Cs-137_LaBr', 'Cs-134_LaBr', 'SDI_doserate_uSv/h']
+2016-10-21 18:53:21,553 - INFO: MapCreatorMapCreator::OnCreateMaps(): Creating maps.
+2016-10-21 18:53:21,553 - INFO: OpenNKS(): Extracting data from file: /Users/jonasnilsson/Documents/Area 1 dose rate SE-FAT-1.NKS
+2016-10-21 18:53:21,554 - INFO: OpenNKS(): Searching for the variable: Cs-137_LaBr
+2016-10-21 18:53:21,572 - INFO: OpenNKS(): Returning 1527 instances of the variable "Cs-137_LaBr". 1 instances were rejected.
+2016-10-21 18:53:21,818 - INFO: MapCreatorMapCreator::OnCreateMaps(): Maps are done.

@@ -1,0 +1,13 @@
+Changes in version 3.0:
+===========Features===========
+-Redesigned the UI
+-It is now possible to select background map when creating png-files. Possible choices are None (White), city, terrain, roads and Sweden
+-Added the ability to make the color scale logarithmic.
+-File and measurement info can now be added to PNG-maps.
+-Moved from py2exe to cx_Freeze
+-Functionality to combine NKS-files has been added.
+-Suggested file name in save file dialog is now taken from the plot title. A plot title is required to create to save the map and the plot title field is cleared when a new map has been created.
+
+===========Bug fixes==========
+-Changed labels on x and y-axes to say Northing/Easting when maps use UTM or RT90 coordinate system.
+-Fixed bug where terrain-maps would not render properly.
